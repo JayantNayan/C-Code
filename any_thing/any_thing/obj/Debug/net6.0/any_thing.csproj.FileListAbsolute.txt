@@ -1,0 +1,15 @@
+D:\Jayant_Project\any_thing\any_thing\bin\Debug\net6.0\any_thing.exe
+D:\Jayant_Project\any_thing\any_thing\bin\Debug\net6.0\any_thing.deps.json
+D:\Jayant_Project\any_thing\any_thing\bin\Debug\net6.0\any_thing.runtimeconfig.json
+D:\Jayant_Project\any_thing\any_thing\bin\Debug\net6.0\any_thing.dll
+D:\Jayant_Project\any_thing\any_thing\bin\Debug\net6.0\any_thing.pdb
+D:\Jayant_Project\any_thing\any_thing\obj\Debug\net6.0\any_thing.csproj.AssemblyReference.cache
+D:\Jayant_Project\any_thing\any_thing\obj\Debug\net6.0\any_thing.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jayant_Project\any_thing\any_thing\obj\Debug\net6.0\any_thing.AssemblyInfoInputs.cache
+D:\Jayant_Project\any_thing\any_thing\obj\Debug\net6.0\any_thing.AssemblyInfo.cs
+D:\Jayant_Project\any_thing\any_thing\obj\Debug\net6.0\any_thing.csproj.CoreCompileInputs.cache
+D:\Jayant_Project\any_thing\any_thing\obj\Debug\net6.0\any_thing.dll
+D:\Jayant_Project\any_thing\any_thing\obj\Debug\net6.0\refint\any_thing.dll
+D:\Jayant_Project\any_thing\any_thing\obj\Debug\net6.0\any_thing.pdb
+D:\Jayant_Project\any_thing\any_thing\obj\Debug\net6.0\any_thing.genruntimeconfig.cache
+D:\Jayant_Project\any_thing\any_thing\obj\Debug\net6.0\ref\any_thing.dll

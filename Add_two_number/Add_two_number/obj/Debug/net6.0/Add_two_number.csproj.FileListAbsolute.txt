@@ -1,0 +1,15 @@
+D:\Jayant_Project\Add_two_number\Add_two_number\bin\Debug\net6.0\Add_two_number.exe
+D:\Jayant_Project\Add_two_number\Add_two_number\bin\Debug\net6.0\Add_two_number.deps.json
+D:\Jayant_Project\Add_two_number\Add_two_number\bin\Debug\net6.0\Add_two_number.runtimeconfig.json
+D:\Jayant_Project\Add_two_number\Add_two_number\bin\Debug\net6.0\Add_two_number.dll
+D:\Jayant_Project\Add_two_number\Add_two_number\bin\Debug\net6.0\Add_two_number.pdb
+D:\Jayant_Project\Add_two_number\Add_two_number\obj\Debug\net6.0\Add_two_number.csproj.AssemblyReference.cache
+D:\Jayant_Project\Add_two_number\Add_two_number\obj\Debug\net6.0\Add_two_number.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jayant_Project\Add_two_number\Add_two_number\obj\Debug\net6.0\Add_two_number.AssemblyInfoInputs.cache
+D:\Jayant_Project\Add_two_number\Add_two_number\obj\Debug\net6.0\Add_two_number.AssemblyInfo.cs
+D:\Jayant_Project\Add_two_number\Add_two_number\obj\Debug\net6.0\Add_two_number.csproj.CoreCompileInputs.cache
+D:\Jayant_Project\Add_two_number\Add_two_number\obj\Debug\net6.0\Add_two_number.dll
+D:\Jayant_Project\Add_two_number\Add_two_number\obj\Debug\net6.0\refint\Add_two_number.dll
+D:\Jayant_Project\Add_two_number\Add_two_number\obj\Debug\net6.0\Add_two_number.pdb
+D:\Jayant_Project\Add_two_number\Add_two_number\obj\Debug\net6.0\Add_two_number.genruntimeconfig.cache
+D:\Jayant_Project\Add_two_number\Add_two_number\obj\Debug\net6.0\ref\Add_two_number.dll

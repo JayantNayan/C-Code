@@ -1,0 +1,11 @@
+D:\Jayant_Project\AppilcationWindows\AppilcationWindows\bin\Debug\AppilcationWindows.exe.config
+D:\Jayant_Project\AppilcationWindows\AppilcationWindows\bin\Debug\AppilcationWindows.exe
+D:\Jayant_Project\AppilcationWindows\AppilcationWindows\bin\Debug\AppilcationWindows.pdb
+D:\Jayant_Project\AppilcationWindows\AppilcationWindows\obj\Debug\AppilcationWindows.csproj.AssemblyReference.cache
+D:\Jayant_Project\AppilcationWindows\AppilcationWindows\obj\Debug\AppilcationWindows.csproj.SuggestedBindingRedirects.cache
+D:\Jayant_Project\AppilcationWindows\AppilcationWindows\obj\Debug\AppilcationWindows.Form1.resources
+D:\Jayant_Project\AppilcationWindows\AppilcationWindows\obj\Debug\AppilcationWindows.Properties.Resources.resources
+D:\Jayant_Project\AppilcationWindows\AppilcationWindows\obj\Debug\AppilcationWindows.csproj.GenerateResource.cache
+D:\Jayant_Project\AppilcationWindows\AppilcationWindows\obj\Debug\AppilcationWindows.csproj.CoreCompileInputs.cache
+D:\Jayant_Project\AppilcationWindows\AppilcationWindows\obj\Debug\AppilcationWindows.exe
+D:\Jayant_Project\AppilcationWindows\AppilcationWindows\obj\Debug\AppilcationWindows.pdb
