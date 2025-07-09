@@ -1,0 +1,15 @@
+D:\Jayant_Project\Jayant_get_set\Jayant_get_set\bin\Debug\net6.0\Jayant_get_set.exe
+D:\Jayant_Project\Jayant_get_set\Jayant_get_set\bin\Debug\net6.0\Jayant_get_set.deps.json
+D:\Jayant_Project\Jayant_get_set\Jayant_get_set\bin\Debug\net6.0\Jayant_get_set.runtimeconfig.json
+D:\Jayant_Project\Jayant_get_set\Jayant_get_set\bin\Debug\net6.0\Jayant_get_set.dll
+D:\Jayant_Project\Jayant_get_set\Jayant_get_set\bin\Debug\net6.0\Jayant_get_set.pdb
+D:\Jayant_Project\Jayant_get_set\Jayant_get_set\obj\Debug\net6.0\Jayant_get_set.csproj.AssemblyReference.cache
+D:\Jayant_Project\Jayant_get_set\Jayant_get_set\obj\Debug\net6.0\Jayant_get_set.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jayant_Project\Jayant_get_set\Jayant_get_set\obj\Debug\net6.0\Jayant_get_set.AssemblyInfoInputs.cache
+D:\Jayant_Project\Jayant_get_set\Jayant_get_set\obj\Debug\net6.0\Jayant_get_set.AssemblyInfo.cs
+D:\Jayant_Project\Jayant_get_set\Jayant_get_set\obj\Debug\net6.0\Jayant_get_set.csproj.CoreCompileInputs.cache
+D:\Jayant_Project\Jayant_get_set\Jayant_get_set\obj\Debug\net6.0\Jayant_get_set.dll
+D:\Jayant_Project\Jayant_get_set\Jayant_get_set\obj\Debug\net6.0\refint\Jayant_get_set.dll
+D:\Jayant_Project\Jayant_get_set\Jayant_get_set\obj\Debug\net6.0\Jayant_get_set.pdb
+D:\Jayant_Project\Jayant_get_set\Jayant_get_set\obj\Debug\net6.0\Jayant_get_set.genruntimeconfig.cache
+D:\Jayant_Project\Jayant_get_set\Jayant_get_set\obj\Debug\net6.0\ref\Jayant_get_set.dll

@@ -1,0 +1,15 @@
+D:\Jayant_Project\oops_concept\oops_concept\bin\Debug\net6.0\oops_concept.exe
+D:\Jayant_Project\oops_concept\oops_concept\bin\Debug\net6.0\oops_concept.deps.json
+D:\Jayant_Project\oops_concept\oops_concept\bin\Debug\net6.0\oops_concept.runtimeconfig.json
+D:\Jayant_Project\oops_concept\oops_concept\bin\Debug\net6.0\oops_concept.dll
+D:\Jayant_Project\oops_concept\oops_concept\bin\Debug\net6.0\oops_concept.pdb
+D:\Jayant_Project\oops_concept\oops_concept\obj\Debug\net6.0\oops_concept.csproj.AssemblyReference.cache
+D:\Jayant_Project\oops_concept\oops_concept\obj\Debug\net6.0\oops_concept.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jayant_Project\oops_concept\oops_concept\obj\Debug\net6.0\oops_concept.AssemblyInfoInputs.cache
+D:\Jayant_Project\oops_concept\oops_concept\obj\Debug\net6.0\oops_concept.AssemblyInfo.cs
+D:\Jayant_Project\oops_concept\oops_concept\obj\Debug\net6.0\oops_concept.csproj.CoreCompileInputs.cache
+D:\Jayant_Project\oops_concept\oops_concept\obj\Debug\net6.0\oops_concept.dll
+D:\Jayant_Project\oops_concept\oops_concept\obj\Debug\net6.0\refint\oops_concept.dll
+D:\Jayant_Project\oops_concept\oops_concept\obj\Debug\net6.0\oops_concept.pdb
+D:\Jayant_Project\oops_concept\oops_concept\obj\Debug\net6.0\oops_concept.genruntimeconfig.cache
+D:\Jayant_Project\oops_concept\oops_concept\obj\Debug\net6.0\ref\oops_concept.dll

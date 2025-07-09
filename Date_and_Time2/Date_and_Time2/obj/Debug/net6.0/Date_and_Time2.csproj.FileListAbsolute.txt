@@ -1,0 +1,15 @@
+D:\Jayant_Project\Date_and_Time2\Date_and_Time2\bin\Debug\net6.0\Date_and_Time2.exe
+D:\Jayant_Project\Date_and_Time2\Date_and_Time2\bin\Debug\net6.0\Date_and_Time2.deps.json
+D:\Jayant_Project\Date_and_Time2\Date_and_Time2\bin\Debug\net6.0\Date_and_Time2.runtimeconfig.json
+D:\Jayant_Project\Date_and_Time2\Date_and_Time2\bin\Debug\net6.0\Date_and_Time2.dll
+D:\Jayant_Project\Date_and_Time2\Date_and_Time2\bin\Debug\net6.0\Date_and_Time2.pdb
+D:\Jayant_Project\Date_and_Time2\Date_and_Time2\obj\Debug\net6.0\Date_and_Time2.csproj.AssemblyReference.cache
+D:\Jayant_Project\Date_and_Time2\Date_and_Time2\obj\Debug\net6.0\Date_and_Time2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jayant_Project\Date_and_Time2\Date_and_Time2\obj\Debug\net6.0\Date_and_Time2.AssemblyInfoInputs.cache
+D:\Jayant_Project\Date_and_Time2\Date_and_Time2\obj\Debug\net6.0\Date_and_Time2.AssemblyInfo.cs
+D:\Jayant_Project\Date_and_Time2\Date_and_Time2\obj\Debug\net6.0\Date_and_Time2.csproj.CoreCompileInputs.cache
+D:\Jayant_Project\Date_and_Time2\Date_and_Time2\obj\Debug\net6.0\Date_and_Time2.dll
+D:\Jayant_Project\Date_and_Time2\Date_and_Time2\obj\Debug\net6.0\refint\Date_and_Time2.dll
+D:\Jayant_Project\Date_and_Time2\Date_and_Time2\obj\Debug\net6.0\Date_and_Time2.pdb
+D:\Jayant_Project\Date_and_Time2\Date_and_Time2\obj\Debug\net6.0\Date_and_Time2.genruntimeconfig.cache
+D:\Jayant_Project\Date_and_Time2\Date_and_Time2\obj\Debug\net6.0\ref\Date_and_Time2.dll

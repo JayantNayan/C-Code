@@ -1,0 +1,15 @@
+D:\Jayant_Project\Odd_even_number\Odd_even_number\bin\Debug\net6.0\Odd_even_number.exe
+D:\Jayant_Project\Odd_even_number\Odd_even_number\bin\Debug\net6.0\Odd_even_number.deps.json
+D:\Jayant_Project\Odd_even_number\Odd_even_number\bin\Debug\net6.0\Odd_even_number.runtimeconfig.json
+D:\Jayant_Project\Odd_even_number\Odd_even_number\bin\Debug\net6.0\Odd_even_number.dll
+D:\Jayant_Project\Odd_even_number\Odd_even_number\bin\Debug\net6.0\Odd_even_number.pdb
+D:\Jayant_Project\Odd_even_number\Odd_even_number\obj\Debug\net6.0\Odd_even_number.csproj.AssemblyReference.cache
+D:\Jayant_Project\Odd_even_number\Odd_even_number\obj\Debug\net6.0\Odd_even_number.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jayant_Project\Odd_even_number\Odd_even_number\obj\Debug\net6.0\Odd_even_number.AssemblyInfoInputs.cache
+D:\Jayant_Project\Odd_even_number\Odd_even_number\obj\Debug\net6.0\Odd_even_number.AssemblyInfo.cs
+D:\Jayant_Project\Odd_even_number\Odd_even_number\obj\Debug\net6.0\Odd_even_number.csproj.CoreCompileInputs.cache
+D:\Jayant_Project\Odd_even_number\Odd_even_number\obj\Debug\net6.0\Odd_even_number.dll
+D:\Jayant_Project\Odd_even_number\Odd_even_number\obj\Debug\net6.0\refint\Odd_even_number.dll
+D:\Jayant_Project\Odd_even_number\Odd_even_number\obj\Debug\net6.0\Odd_even_number.pdb
+D:\Jayant_Project\Odd_even_number\Odd_even_number\obj\Debug\net6.0\Odd_even_number.genruntimeconfig.cache
+D:\Jayant_Project\Odd_even_number\Odd_even_number\obj\Debug\net6.0\ref\Odd_even_number.dll
